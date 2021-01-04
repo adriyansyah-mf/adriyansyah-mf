@@ -1,16 +1,18 @@
-### Hi there 👋
+Programming Language Agnostic , Tech Enthusiast and Fullstack Web Developer.
 
-<!--
-**adriyansyah-mf/adriyansyah-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Performance Overall
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=adriyansyah-mf&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Most Used Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriyansyah-mf&theme=vue">
+
+## Current activity
+
+- 💻 I'm currently developing some freelance projects.
+- 📖 I’m currently learning laravel;
+- 🤔 My interests are with front-end & backend then i decide to do fullstack;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via adriyansyahmf@aol.com to reach me.
+
