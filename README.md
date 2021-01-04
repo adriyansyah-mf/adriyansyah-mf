@@ -1,4 +1,4 @@
-Programming Language Agnostic , Tech Enthusiast and Fullstack Web Developer.
+Tech Enthusiast and Fullstack Web Developer.
 
 ## Github Performance Overall
 
