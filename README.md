@@ -1,4 +1,4 @@
-Tech Enthusiast and Fullstack Web Developer.
+Tech Enthusiast and Bug Hunter.
 
 ## Github Performance Overall
 
@@ -11,7 +11,7 @@ Tech Enthusiast and Fullstack Web Developer.
 ## Current activity
 
 - 💻 I'm currently developing some freelance projects.
-- 📖 I’m currently learning laravel;
+- 📖 I’m currently learning golang;
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via adriyansyahmf@aol.com to reach me.
