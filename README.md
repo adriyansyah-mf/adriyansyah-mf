@@ -2,7 +2,7 @@ Tech Enthusiast and Bug Hunter.
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=adriyansyah-mf&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=adriyansyah-mf&theme=vue-dark&show_icons=true)
 
 ## My Github Most Used Language
 
