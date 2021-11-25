@@ -6,13 +6,12 @@ Tech Enthusiast and Bug Hunter.
 
 ## My Github Most Used Language
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriyansyah-mf&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriyansyah-mf&theme=cobalt&show_icons=true">
 
 ## Current activity
 
-- 💻 I'm currently developing some freelance projects.
-- 📖 I’m currently learning golang;
-- 🤔 My interests are with front-end & backend then i decide to do fullstack;
+- 💻 I'm currently work as an Backend Engineer.
+- 📖 I’m currently learning python;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via adriyansyahmf@aol.com to reach me.
 
