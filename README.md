@@ -15,3 +15,7 @@ Tech Enthusiast and Bug Hunter.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via adriyansyahmf@aol.com to reach me.
 
+
+## Fact About Me
+- Lazy People 
+
