@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriyansyah-mf&label=Profile%20views&color=0e75b6&style=flat" alt="adriyansyah-mf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriyansyah-mf" alt="adriyansyah-mf" /></a> </p>
+[![An image of @adriyansyahmf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adriyansyahmf)](https://holopin.io/@adriyansyahmf)
 
 - 🔭 I’m currently working as **Backend Engineer**
 
