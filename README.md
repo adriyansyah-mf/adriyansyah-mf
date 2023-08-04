@@ -1,3 +1,5 @@
+<img src="welcome.svg">
+
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate Backend developer from indonesia</h3>
 
